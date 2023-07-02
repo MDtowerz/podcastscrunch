@@ -1,0 +1,4 @@
+.text {
+    display: inline-block;
+    vertical-align: middle; /* or top or bottom */
+}
